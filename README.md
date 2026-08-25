@@ -14,7 +14,7 @@ Sockets Links.
 
 ## ```echo_server.py```
 
-```
+```python
 import socket
 
 # Create socket object
@@ -64,7 +64,7 @@ print("Server closed.")
 
 ## ```echo_client.py```
 
-```
+```python
 import socket
 
 # Create socket object
